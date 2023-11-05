@@ -26,9 +26,9 @@
     </tr>
     <tr>
         <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Dharshika" alt="N Meera" width=144></td>
-        <td> <b> N Meera </b>  <br/> 
+        <td> <b> Aishwarya S </b>  <br/> 
         <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/" alt="Kolluru Sai Supraj" width=144></td>
-        <td> <b> Kolluru Sai Supraj </b> <br/>
+        <td> <b> Akshit Singh </b> <br/>
     </tr>
    </table>
 
