@@ -8,7 +8,7 @@
 ### Class Advisors
 <table>
     <tr>
-        <td><img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/AKN.jpg" alt="Ambili K N" width=144></td>
+        <td><img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/AKN.png" alt="Ambili K N" width=144></td>
         <td> <b> Dr. Ambili K N </b>  <br/> 
         <td><img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/RR.png" alt="Ramaguru Radhakrishnan" width=144></td>
         <td> <b> Mr. Ramaguru Radhakrishnan </b> <br/>
